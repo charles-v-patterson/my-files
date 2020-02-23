@@ -1,2 +1,2 @@
 # buzzard-bait
-responsity for my files
+reposity for my files
